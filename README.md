@@ -13,8 +13,8 @@ Descargar la box
         Posibilidades:
           https://drive.google.com/file/d/0B4FIs0XjkjNgeUJUTDcwSTNza1E/view
           https://mega.nz/#!yIUjBIQB!1nFihgCC1e7FW2Vb_XJQVXM_kNyyxAjkR0pI93e0wZM
-           wget
-              #esta box ha partido de una ubuntu/trusty64 mas los añadidos de un stack LAMP
+        
+        #Estaa box ha partido de una ubuntu/trusty64 mas los añadidos de un stack LAMP
   Añadir dicha box a vuestra lista de cajas.
         vagrant box add /rutadedescarga/package.box --name Nombre
            #rutadescarga    deberia ser la ruta  actual o doonde este descargada la bos que he subido
